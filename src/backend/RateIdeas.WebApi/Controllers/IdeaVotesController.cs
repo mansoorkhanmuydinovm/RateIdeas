@@ -1,6 +1,7 @@
 ﻿using RateIdeas.Application.IdeaVotes.Commands;
 using RateIdeas.Application.IdeaVotes.DTOs;
 using RateIdeas.Application.IdeaVotes.Queries;
+using RateIdeas.WebApi.Controllers.Commons;
 
 namespace RateIdeas.WebApi.Controllers.IdeaVotes;
 

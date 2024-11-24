@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using RateIdeas.Application.Commons.Constants;
 using RateIdeas.Domain.Entities;
 using RateIdeas.Domain.Entities.Comments;
 using RateIdeas.Domain.Entities.Ideas;

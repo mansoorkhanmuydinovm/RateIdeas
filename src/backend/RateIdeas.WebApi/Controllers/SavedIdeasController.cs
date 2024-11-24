@@ -1,6 +1,7 @@
 ﻿using RateIdeas.Application.SavedIdeas.Commands;
 using RateIdeas.Application.SavedIdeas.DTOs;
 using RateIdeas.Application.SavedIdeas.Queries;
+using RateIdeas.WebApi.Controllers.Commons;
 
 namespace RateIdeas.WebApi.Controllers.SavedIdeas;
 

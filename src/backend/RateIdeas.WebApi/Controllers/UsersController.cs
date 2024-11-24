@@ -4,6 +4,7 @@ using RateIdeas.Application.Users.Commands.UpdateRole;
 using RateIdeas.Application.Users.Commands.UpdateUser;
 using RateIdeas.Application.Users.DTOs;
 using RateIdeas.Application.Users.Queries;
+using RateIdeas.WebApi.Controllers.Commons;
 
 namespace RateIdeas.WebApi.Controllers.Users;
 
